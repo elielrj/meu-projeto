@@ -1,0 +1,23 @@
+{
+  "name": "meu-projeto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elielrj/meu-projeto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elielrj/meu-projeto/issues"
+  },
+  "homepage": "https://github.com/elielrj/meu-projeto#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "keywords": [],
+  "description": ""
+}
