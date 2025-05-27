@@ -13,5 +13,5 @@ Para iniciar o Backend, é necessário rodar os seguintes comandos:
 
 `node index.js`
 
-### Após os comandos acima, é só ir no projeto `meu-projeto-backend` e inicializar o Frontend.
+### Após os comandos acima, é só ir no projeto [meu-projeto-backend](https://github.com/elielrj/meu-projeto-front "Frontend") e inicializar o Frontend.
 
